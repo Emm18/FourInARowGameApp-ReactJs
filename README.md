@@ -1,4 +1,5 @@
 # Four in a Row Game App!
+  # Use left, right, and down arrow key
   # React Js
   
 Demo website : https://emm18-four-in-a-row.netlify.com/
